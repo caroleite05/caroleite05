@@ -12,7 +12,7 @@ In addition to my academic training, I am a high-level artistic swimmer.
 
 BSc in Bioinformatics - 2023/present - Faculdade de Ciências da Universidade do Porto
 
-<img align="left" height="70" src="https://sigarra.up.pt/fcup/pt/imagens/LogotipoSI"  />
+<img align="left" height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tDm6vO9j6-LoED9jXeELcLFqiLU5KXYn9A&s"  />
 
 
 <br>
