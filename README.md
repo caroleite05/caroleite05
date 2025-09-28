@@ -26,7 +26,6 @@ BSc in Bioinformatics - 2023/present - Faculdade de Ciências da Universidade do
 </div>
 
 ###
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=caroleite05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
@@ -38,12 +37,14 @@ BSc in Bioinformatics - 2023/present - Faculdade de Ciências da Universidade do
   <img src="https://github-profile-trophy.vercel.app?username=caroleite05&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://ih1.redbubble.net/image.5352849602.7659/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg"  />
 
 ###
 <br>
+
+## Languages and Tools: 
+
+###
+<img align="right" height="150" src="https://ih1.redbubble.net/image.5352849602.7659/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
