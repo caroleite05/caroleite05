@@ -22,9 +22,9 @@ BSc in Bioinformatics - 2023/present - Faculdade de Ciências da Universidade do
 
 ## Stats:
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=caroleite05.caroleite05&left_color=deepskyblue&right_color=lightcoral&left_text=Profile%20views"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caroleite05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroleite05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 ###
 
 <div align="left">
